@@ -1,5 +1,7 @@
 Project Name: PremiumMindsPokemonChallenge
 
+Description: Given a sequence of moves ("N", "S", "E", "O"), the program will count how many Pokemon were caught. There is only one Pokemon per house, so repeated squares will not count. The starter square has one Pokemon to catch. 
+
 Requirements:
 
 Java 19 or higher
